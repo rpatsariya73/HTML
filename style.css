@@ -1,0 +1,23 @@
+h1{
+    background-color: aquamarine;
+    font-size: larger
+    font-style: inherit;
+    font-weight: 300;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    border: 0cqmax;
+    padding: 0cqb;
+}
+h2{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: 300;
+    font-style: inherit;
+}
+ol{
+    background-color: darkgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    font-variant: small-caps;
+}
