@@ -1,0 +1,37 @@
+#first{
+    background-color: red;
+    height: 200px;
+    width: 300px;
+    position: relative;
+}
+.first{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 75px;
+    bottom: 75px;
+    left: 125px;
+    right: 125px;
+}
+
+.second {
+    background-color: blue;
+    height: 50px;
+    width: 300px;
+    position: absolute;
+}
+.second{
+    top: 0px;
+
+}
+.third{
+    bottom: 0px;
+}
+.third {
+    background-color: blue;
+    height: 50px;
+    width: 300px;
+    position: absolute;
+}
